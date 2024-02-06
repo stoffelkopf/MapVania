@@ -8,7 +8,7 @@ Features:
 - only 1 map type per dungeon type for all level ranges (map level = your current hero level)
 - maps with TL story boss fights (mostly 1 random level + 1 boss level)
 - crypt and palace have multiple boss fights and no random maps
-- map names are in german - you can change the name in the dungeon/randomxxxxx.dat files (<TRANSLATE>DISPLAYNAME:)
+- map names are in german - you can change the names in the .dat files (<TRANSLATE>)
 
 Installation:
 
